@@ -3,4 +3,4 @@ Git is free software under the GPL.
 hello world.
 git tracks changes of files.
 
-git is useful.
+git is use
